@@ -8,11 +8,7 @@ A modern weather forecasting web application built with **React** that fetches a
 
 👉 [Open Live Demo](https://syntecxhub-weather-app-seven.vercel.app/)
 
----
 
-## 📸 Screenshot
-
-![Weather App Screenshot](./Screenshot.png)
 
 ---
 
