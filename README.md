@@ -6,7 +6,7 @@ A modern weather forecasting web application built with **React** that fetches a
 
 ## 🚀 Live Demo
 
-👉 https://syntexhub-weather-app.vercel.app
+👉 👉 [Live Demo](https://syntexhub-weather-app.vercel.app)
 
 ---
 
