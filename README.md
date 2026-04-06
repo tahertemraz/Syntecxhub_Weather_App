@@ -12,7 +12,7 @@ A modern weather forecasting web application built with **React** that fetches a
 
 ## 📸 Screenshot
 
-![Weather App Screenshot](./2026-04-06 104433.png)
+![Weather App Screenshot](./Screenshot.png)
 
 ---
 
